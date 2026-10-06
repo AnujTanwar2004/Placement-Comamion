@@ -1,0 +1,35 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Local IDE files, caches and generated outputs
+.idea/
+.kotlin/
+.presentation-tools/
+**/build/
+**/__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+*.jks
+*.keystore
+# Local test captures and duplicated presentation/download archives
+presentation/screenshots/
+presentation/frames/
+presentation/*Package.zip
+data/leetcode-companywise/source.zip
+data/leetcode-companywise/*test-results*.txt
+data/leetcode-companywise/offline-*.png

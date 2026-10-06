@@ -1,0 +1,12 @@
+00:03  Home dashboard and bottom navigation
+00:07  Study planner and sample tasks
+00:14  Blank task title is guarded
+00:35  New study task saved in Room
+00:38  Toggle task completion
+00:44  Home returns to the dashboard
+00:52  Relaunch: saved task is retained
+01:07  Real Groq API request: two-day study plan
+01:14  Generated roadmap and study tasks
+01:20  AI tasks saved to the local planner
+01:27  Company directory and filtering
+01:34  Final dashboard

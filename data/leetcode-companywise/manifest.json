@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/snehasishroy/leetcode-companywise-interview-questions",
+  "commit": "e095c259cfd036e3ddb6886e84d7075c2faac477",
+  "snapshotDate": "2026-07-12",
+  "companyCount": 659,
+  "csvCount": 1642,
+  "rawRows": 39904,
+  "questionCount": 17826,
+  "assetSha256": "824e5b25be7f50bdee1c2ee954a31182a34a93ac2b9ca1d0884282fbf5be3606"
+}
